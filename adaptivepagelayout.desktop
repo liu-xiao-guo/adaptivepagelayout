@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=adaptivepagelayout
+Exec=qmlscene $@ Main.qml
+Icon=adaptivepagelayout.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+

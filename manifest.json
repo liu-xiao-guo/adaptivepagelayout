@@ -1,0 +1,17 @@
+{
+    "name": "adaptivepagelayout.liu-xiao-guo",
+    "description": "description of adaptivepagelayout",
+    "architecture": "all",
+    "title": "adaptivepagelayout",
+    "hooks": {
+        "adaptivepagelayout": {
+            "apparmor": "adaptivepagelayout.apparmor",
+            "desktop":  "adaptivepagelayout.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "XiaoGuo, Liu <xiaoguo.liu@canonical.com>",
+    "framework" : "ubuntu-sdk-15.04"
+}
+
+
